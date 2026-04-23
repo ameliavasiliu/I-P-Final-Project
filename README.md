@@ -8,5 +8,5 @@ inferential question (does rice variety significantly affect yield?) and a predi
 
 ## Dataset
 The dataset contains farm inputs, weather data, and paddy yield (kg) for plots across Tamil Nadu, India.  
-Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets?search=&Keywords=agriculture)
+Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1186/paddy+dataset)
 
